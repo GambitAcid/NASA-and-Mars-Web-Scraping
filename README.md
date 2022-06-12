@@ -1,5 +1,8 @@
 # Unit 12 Homework: Mission to Mars
 
+![mission_to_mars](https://user-images.githubusercontent.com/101227638/173256927-3e599647-ce0c-4841-87a2-81459fe49877.png)
+
+
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following information outlines what you need to do.
 
 ## Before You Begin
